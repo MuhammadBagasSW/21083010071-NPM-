@@ -17,6 +17,3 @@ echo "ab lebih kecil dari ce"
 else
 echo "Tidak ada kondisi yang memenuhi"
 fi
-
-
-
